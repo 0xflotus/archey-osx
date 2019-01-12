@@ -48,9 +48,9 @@ brew install archey
 * [djmelik](https://github.com/djmelik/archey) - Archey
 * [joshfinnie](https://github.com/joshfinnie/archey-osx) - A great OSX Python port of Archey
 * [Gary00](https://github.com/Gary00/archey-osx) - A fork of joshfinnie's Archey port, and the base of this script.
-* [rdlugosz](https://github.com/rdlugosz) - Fixing a math error with memory caculations.
+* [rdlugosz](https://github.com/rdlugosz) - Fixing a math error with memory calculations.
 * [docwhat](https://github.com/docwhat) - Shell expertise and cleanups.
-* [slice27](https://github.com/slice27) - Shell wizardy allowing dynamic fields
+* [slice27](https://github.com/slice27) - Shell wizardry allowing dynamic fields
 * [vladshub](https://github.com/vladshub) - Custom logo support
 
 ## License
